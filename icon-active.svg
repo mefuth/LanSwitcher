@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="10" fill="#1b8f5a"/>
+  <rect x="4" y="4" width="40" height="40" rx="8" fill="none" stroke="#d9fff0" stroke-width="2" opacity="0.7"/>
+  <text x="50%" y="60%" text-anchor="middle" font-size="15" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="1" fill="#ffffff">LAN</text>
+</svg>
